@@ -46,7 +46,7 @@ jupyter notebook gpa_prediction.ipynb
 
 - Email: shavkatjon.yuldashev.0411@gmail.com
 - GitHub: [github.com/shavkatjony](https://github.com/shavkatjony)
-- LinkedIn: [Add your LinkedIn URL here]
+- LinkedIn:
 
 ---
 
